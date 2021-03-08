@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.Mapbox-Test.iml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Users\user\Documents\GitHub\Mapbox-Test\.idea\.idea.Mapbox-Test\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
